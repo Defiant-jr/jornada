@@ -1,0 +1,10 @@
+
+#signupContainer{width: 580; padding-left: 20px;}
+#signupBanner{float:right; padding-right:25px;}
+#topArea{text-align: right; MARGIN: 0 right;}
+#topAreaContainer{float: right; width: 450;}
+#topAreaText{text-align: left;}
+#topAreaImage{float: right; padding-right: 30px;}
+#signupContent{clear: both;}
+.signupTextHeader{font-size: 18px; color: #336212; font-family: Arial, san-serif, Helvetica; font-weight:bold; }
+.signupText{font-family: Arial, Helvetica, san-serif; line-height:140%; color: #676767;  font-size: 11px; padding-right:30px;}

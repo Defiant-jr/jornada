@@ -1,0 +1,34 @@
+h1.sitemeter_rss_aggregator
+{
+	display: inline;
+}
+
+h1.sitemeter_rss_aggregator a
+{
+	color: black;
+	font-weight: bold;
+	font-size: 11px;
+	text-decoration: none;
+	width: 230px;
+	padding-bottom: 3px;
+}
+
+h2.sitemeter_rss_aggregator
+{
+	font-size: 10pt;
+}
+
+a.sitemeter_rss_aggregator
+{
+	font-size: 11px;
+	width: 230px;
+}
+
+p.sitemeter_rss_aggregator
+{
+	font-family: 'arial','Helvetica','sans-serif';
+	font-size: 11px;
+	line-height: 140%;
+	width: 230px;
+	padding-bottom: 10px;
+}

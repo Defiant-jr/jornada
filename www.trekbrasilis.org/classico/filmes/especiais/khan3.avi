@@ -1,0 +1,375 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="pt-BR">
+<head profile="http://gmpg.org/xfn/11">
+
+	<title>Página não encontrada | Trek Brasilis</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	
+
+<link rel="stylesheet" href="http://www.trekbrasilis.org/tbweblog/wp-content/themes/frugal_35/style.css" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://www.trekbrasilis.org/tbweblog/wp-content/themes/frugal_35/lib/css/css.php?1277005027" type="text/css" media="screen, projection" />
+	
+	<link rel="Shortcut Icon" href="http://www.trekbrasilis.org/tbweblog/wp-content/themes/frugal_35/images/favicon.ico" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="Trek Brasilis RSS Feed" href="http://feeds.feedburner.com/TrekBrasilis" />
+	<link rel="pingback" href="http://www.trekbrasilis.org/tbweblog/xmlrpc.php" />
+	
+			<script type="text/javascript"><!--//--><![CDATA[//><!--
+		sfHover = function() {
+			if (!document.getElementsByTagName) return false;
+							var sfEls = document.getElementById("nav").getElementsByTagName("li");
+							
+			
+							for (var i=0; i<sfEls.length; i++) {
+					sfEls[i].onmouseover=function() {
+						this.className+=" sfhover";
+					}
+					sfEls[i].onmouseout=function() {
+						this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+					}
+				}
+							
+			
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHover);
+		//--><!]]></script>
+		
+		
+	<link rel="alternate" type="application/rss+xml" title="Feed de Trek Brasilis &raquo;" href="http://www.trekbrasilis.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Trek Brasilis &raquo;  Feed de comentários" href="http://www.trekbrasilis.org/comments/feed/" />
+<link rel='stylesheet' id='comfeed-css'  href='http://www.trekbrasilis.org/tbweblog/wp-content/plugins/sexybookmarks/css/comfeed.css?ver=4.0.6.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.trekbrasilis.org/tbweblog/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SHRSB_Globals = {
+	src: "http://www.trekbrasilis.org/tbweblog/wp-content/uploads/shareaholic/spritegen",
+	perfoption: "1"
+};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.trekbrasilis.org/tbweblog/wp-content/uploads/shareaholic/spritegen/jquery.shareaholic-publishers-sb.min.js?ver=4.0.6.4'></script>
+<script type='text/javascript' src='http://dtym7iokkjlif.cloudfront.net/dough/1.0/recipe.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.trekbrasilis.org/tbweblog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.trekbrasilis.org/tbweblog/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Trek Brasilis' href='http://www.trekbrasilis.org/' />
+<meta name="generator" content="WordPress 3.2.1" />
+
+
+<!-- Start Shareaholic OgTags -->
+
+	<!-- Shareaholic Notice: There is neither a featured nor gallery image set -->
+
+<!-- End Shareaholic OgTags -->
+
+<link rel="stylesheet" type="text/css" href="http://www.trekbrasilis.org/tbweblog/wp-content/plugins/social-media-widget/social_widget.css" />
+	
+</head>
+
+<body class="four04 windows unknown-browser">
+<div id="wrap">
+<div id="header_wrap">
+<div id="header">
+<div class="headerleft" id="logoimage">
+<p><a href="http://www.trekbrasilis.org" title="Trek Brasilis" rel="home nofollow">Trek Brasilis</a></p>
+<p>A Fonte de Jornada nas Estrelas em Português</p>
+</div>
+<div class="headerright">
+<ul>
+<li id="text-4" class="widget widget_text">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "pub-7944720980291718";
+//468x60, criado 20/11/07
+google_ad_slot = "5317543457";
+google_ad_width = 468;
+google_ad_height = 60;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="navbar_wrap">
+	<div id="navbar">
+
+		<div id="navbar_left">
+					<ul id="nav">
+				<li class="home "><a href="http://www.trekbrasilis.org" rel="home nofollow">Principal</a></li>
+					<li class="page_item page-item-2"><a href="http://www.trekbrasilis.org/about/" title="Equipe do TB">Equipe do TB</a></li>
+<li class="page_item page-item-3"><a href="http://www.trekbrasilis.org/forum/" title="Fórum">Fórum</a></li>
+<li class="page_item page-item-4"><a href="http://www.trekbrasilis.org/contato/" title="Contato">Contato</a></li>
+<li class="page_item page-item-20"><a href="http://www.trekbrasilis.org/sobre-o-tb/" title="Sobre o TB">Sobre o TB</a></li>
+<li class="page_item page-item-168"><a href="http://www.trekbrasilis.org/classico/" title="Conteúdo Clássico">Conteúdo Clássico</a></li>
+<li class="page_item page-item-1119"><a href="http://www.trekbrasilis.org/guia-de-episodios/" title="Guia de Episódios">Guia de Episódios</a></li>
+			</ul>
+					</div>
+		
+			
+	</div>
+</div>
+
+<div id="container">
+
+
+<div id="content">
+
+
+<div id="sidebar_1">
+<ul class="xoxo">
+<li id="simpleimage-2" class="widget widget_simpleimage">  	<div class="simpleimage">
+  	    		<img src="http://www.trekbrasilis.org/images/left/rotate.php" alt="" title="" />
+  		  	</div>
+  	</li>
+		<li id="recent-posts-3" class="widget widget_recent_entries">		<h3>Artigos Recentes</h3>		<ul>
+				<li><a href="http://www.trekbrasilis.org/2011/11/05/scott-chambliss-e-a-pre-producao-de-star-trek-2/" title="Scott Chambliss e a pré-produção de Star Trek 2">Scott Chambliss e a pré-produção de Star Trek 2</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/11/05/star-trek-2-benicio-del-toro-pode-ser-o-novo-vilao/" title="Star Trek 2: Benicio Del Toro pode ser o novo vilão">Star Trek 2: Benicio Del Toro pode ser o novo vilão</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/11/04/filme-star-trek-homenageado-no-s-e-t-awards/" title="Filme Star Trek homenageado no S. E. T. Awards">Filme Star Trek homenageado no S. E. T. Awards</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/11/04/nasa-quer-levar-raio-trator-da-ficcao-para-realidade/" title="NASA quer levar raio trator da ficção para realidade">NASA quer levar raio trator da ficção para realidade</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/11/03/star-trek-em-quadinhos-imagens-e-promocao/" title="Star Trek em quadinhos, imagens e promoção">Star Trek em quadinhos, imagens e promoção</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/11/01/entrevista-com-o-designer-rick-sternbach/" title="Entrevista com o designer Rick Sternbach">Entrevista com o designer Rick Sternbach</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/10/31/yelchin-diz-que-elenco-nada-sabe-sobre-star-trek-2/" title="Yelchin diz que elenco nada sabe sobre Star Trek 2">Yelchin diz que elenco nada sabe sobre Star Trek 2</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/10/29/shatner-fala-da-responsabilidade-sua-sobre-jornada/" title="Shatner fala da responsabilidade sua sobre Jornada">Shatner fala da responsabilidade sua sobre Jornada</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/10/28/star-trek-2-elenco-espera-comeco-das-filmagens/" title="Star Trek 2: elenco espera pelo início das filmagens">Star Trek 2: elenco espera pelo início das filmagens</a></li>
+				<li><a href="http://www.trekbrasilis.org/2011/10/26/alexander-siddig-compara-primeval-a-jornada/" title="Alexander Siddig compara Primeval a Jornada">Alexander Siddig compara Primeval a Jornada</a></li>
+				</ul>
+		</li>
+<li id="text-3" class="widget widget_text"><h3>Publicidade</h3>			<div class="textwidget"><center><script type="text/javascript"><!--
+google_ad_client = "pub-7944720980291718";
+//160x600, criado 20/11/07
+google_ad_slot = "8354550481";
+google_ad_width = 160;
+google_ad_height = 600;
+//--></script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></center></div>
+		</li>
+<li id="categories-2" class="widget widget_categories"><h3>Categorias</h3>		<ul>
+	<li class="cat-item cat-item-5"><a href="http://www.trekbrasilis.org/category/series-e-filmes/a-nova-geracao/" title="Artigos relacionados a Jornada nas Estrelas: A Nova Geração">A Nova Geração</a>
+</li>
+	<li class="cat-item cat-item-735"><a href="http://www.trekbrasilis.org/category/series-e-filmes/a-serie-animada/" title="Ver todos os posts arquivados em A Série Animada">A Série Animada</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.trekbrasilis.org/category/series-e-filmes/a-serie-original/" title="Artigos relacionados a Jornada nas Estrelas: A Série Original">A Série Original</a>
+</li>
+	<li class="cat-item cat-item-885"><a href="http://www.trekbrasilis.org/category/series-e-filmes/filmes-para-cinema/criticas-de-star-trek/" title="Ver todos os posts arquivados em Críticas de Star Trek">Críticas de Star Trek</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://www.trekbrasilis.org/category/series-e-filmes/deep-space-nine/" title="Artigos relacionados a Jornada nas Estrelas: Deep Space Nine">Deep Space Nine</a>
+</li>
+	<li class="cat-item cat-item-693"><a href="http://www.trekbrasilis.org/category/universo-expandido/ds9-livros/" title="Ver todos os posts arquivados em Deep Space Nine: Livros">Deep Space Nine: Livros</a>
+</li>
+	<li class="cat-item cat-item-212"><a href="http://www.trekbrasilis.org/category/dvd/" title="Ver todos os posts arquivados em DVD">DVD</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://www.trekbrasilis.org/category/editorial/" title="Ver todos os posts arquivados em Editorial">Editorial</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.trekbrasilis.org/category/series-e-filmes/enterprise/" title="Artigos relacionados a Jornada nas Estrelas: Enterprise">Enterprise</a>
+</li>
+	<li class="cat-item cat-item-699"><a href="http://www.trekbrasilis.org/category/entrevistas/" title="Ver todos os posts arquivados em Entrevistas">Entrevistas</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.trekbrasilis.org/category/fandom/" title="Artigos relacionados a atividades de fãs de Jornada e sua comunidade">Fandom</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.trekbrasilis.org/category/series-e-filmes/filmes-para-cinema/" title="Artigos relacionados aos filmes para cinema de Jornada nas Estrelas">Filmes para Cinema</a>
+</li>
+	<li class="cat-item cat-item-700"><a href="http://www.trekbrasilis.org/category/guia-de-episodios/" title="Ver todos os posts arquivados em Guia de Episódios">Guia de Episódios</a>
+</li>
+	<li class="cat-item cat-item-954"><a href="http://www.trekbrasilis.org/category/universo-expandido/hqs-universo-expandido/" title="Ver todos os posts arquivados em HQs">HQs</a>
+</li>
+	<li class="cat-item cat-item-592"><a href="http://www.trekbrasilis.org/category/fandom/humor/" title="Ver todos os posts arquivados em Humor">Humor</a>
+</li>
+	<li class="cat-item cat-item-789"><a href="http://www.trekbrasilis.org/category/produtos/" title="Ver todos os posts arquivados em Produtos">Produtos</a>
+</li>
+	<li class="cat-item cat-item-575"><a href="http://www.trekbrasilis.org/category/universo-expandido/revisoes-literarias/" title="Ver todos os posts arquivados em Revisões Literárias">Revisões Literárias</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.trekbrasilis.org/category/series-e-filmes/" title="Categoria geral das séries e filmes">Séries e Filmes</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.trekbrasilis.org/category/a-franquia/" title="Artigos referentes a Jornada nas Estrelas de maneira geral">Star Trek</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.trekbrasilis.org/category/universo-expandido/" title="Artigos relacionados aos livros, quadrinhos, jogos e demais mídias de Jornada nas Estrelas">Universo Expandido</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.trekbrasilis.org/category/series-e-filmes/voyager/" title="Artigos relacionados a Jornada nas Estrelas: Voyager">Voyager</a>
+</li>
+		</ul>
+</li>
+</ul>
+</div>
+	
+	<div id="content_column">
+	
+
+		<div class="postarea">
+		
+		
+
+		<h1>Page Not Found</h1>
+		<p>The page you are looking for is not here.</p>
+		<p>Try a search or use the navigation to find the page or...</p>
+		<h4><p><a href="http://www.trekbrasilis.org">Return Home</a></p></h4>
+		
+
+		</div>
+		
+
+	</div>
+	
+<div id="sb_fbox_wrap">
+<div id="sidebar_wrap">
+<div id="sidebar_2">
+<ul class="xoxo">
+<li id="simpleimage-3" class="widget widget_simpleimage">  	<div class="simpleimage">
+  	    		<img src="http://www.trekbrasilis.org/images/right/rotate.php" alt="" title="" />
+  		  	</div>
+  	</li>
+<li id="search-3" class="widget widget_search"><h3>Busca</h3><form role="search" method="get" id="searchform" action="http://www.trekbrasilis.org/" >
+	<div><label class="screen-reader-text" for="s">Pesquisar por:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Pesquisar" />
+	</div>
+	</form></li>
+<li id="social-widget-3" class="widget Social_Widget"><h3>Acompanhe o TB</h3><div class="socialmedia-buttons smw_left"><a href="http://twitter.com/trekbrasilis" rel="nofollow" ><img src="http://www.trekbrasilis.org/tbweblog/wp-content/plugins/social-media-widget/images/default/64/twitter.png" alt=" Twitter" title=" Twitter" class="" /></a><a href="http://feeds.feedburner.com/TrekBrasilis" rel="nofollow" ><img  src="http://www.trekbrasilis.org/tbweblog/wp-content/plugins/social-media-widget/images/default/64/rss.png" alt=" RSS" title=" RSS" class="" /></a></div></li>
+<li id="archives-3" class="widget widget_archive"><h3>Arquivos</h3>		<ul>
+			<li><a href='http://www.trekbrasilis.org/2011/11/' title='novembro 2011'>novembro 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/10/' title='outubro 2011'>outubro 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/09/' title='setembro 2011'>setembro 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/08/' title='agosto 2011'>agosto 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/07/' title='julho 2011'>julho 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/06/' title='junho 2011'>junho 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/05/' title='maio 2011'>maio 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/04/' title='abril 2011'>abril 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/03/' title='março 2011'>março 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/02/' title='fevereiro 2011'>fevereiro 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2011/01/' title='janeiro 2011'>janeiro 2011</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/12/' title='dezembro 2010'>dezembro 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/11/' title='novembro 2010'>novembro 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/10/' title='outubro 2010'>outubro 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/09/' title='setembro 2010'>setembro 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/08/' title='agosto 2010'>agosto 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/07/' title='julho 2010'>julho 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/06/' title='junho 2010'>junho 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/05/' title='maio 2010'>maio 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/04/' title='abril 2010'>abril 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/03/' title='março 2010'>março 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/02/' title='fevereiro 2010'>fevereiro 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2010/01/' title='janeiro 2010'>janeiro 2010</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/12/' title='dezembro 2009'>dezembro 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/11/' title='novembro 2009'>novembro 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/10/' title='outubro 2009'>outubro 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/09/' title='setembro 2009'>setembro 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/08/' title='agosto 2009'>agosto 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/07/' title='julho 2009'>julho 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/06/' title='junho 2009'>junho 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/05/' title='maio 2009'>maio 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/04/' title='abril 2009'>abril 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/03/' title='março 2009'>março 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/02/' title='fevereiro 2009'>fevereiro 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2009/01/' title='janeiro 2009'>janeiro 2009</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/12/' title='dezembro 2008'>dezembro 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/11/' title='novembro 2008'>novembro 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/10/' title='outubro 2008'>outubro 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/09/' title='setembro 2008'>setembro 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/08/' title='agosto 2008'>agosto 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/07/' title='julho 2008'>julho 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/06/' title='junho 2008'>junho 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/05/' title='maio 2008'>maio 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/04/' title='abril 2008'>abril 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/03/' title='março 2008'>março 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/02/' title='fevereiro 2008'>fevereiro 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2008/01/' title='janeiro 2008'>janeiro 2008</a></li>
+	<li><a href='http://www.trekbrasilis.org/2007/12/' title='dezembro 2007'>dezembro 2007</a></li>
+	<li><a href='http://www.trekbrasilis.org/2007/11/' title='novembro 2007'>novembro 2007</a></li>
+		</ul>
+</li>
+<li id="linkcat-2" class="widget widget_links"><h3>Blogs e Sites</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.aferj.adm.br/">Academia da Frota Estelar do Rio de Janeiro</a></li>
+<li><a href="http://almanaquevirtual.uol.com.br/almanaque.php?id=18609">Almanaque Virtual</a></li>
+<li><a href="http://basenexus.blogspot.com/">Base Nexus</a></li>
+<li><a href="http://chestnuttree-castanheira.blogspot.com/">Blog do Castanheira</a></li>
+<li><a href="http://www.blognatv.com/blog/">Blog NaTV</a></li>
+<li><a href="http://www.blu-rei.com.br">Blu Rei</a></li>
+<li><a href="http://cafemaisletras.blogspot.com/">Café + Letras</a></li>
+<li><a href="http://sratoz.wordpress.com/">Caixa de Sabão do Sr. Atoz</a></li>
+<li><a href="http://www.cardassiaprimera.com.ar">Cardassia Primera</a></li>
+<li><a href="http://cinedivxbizarro.blogspot.com/">Cinedivx Bizarro</a></li>
+<li><a href="http://www.cinemaemcena.com.br">Cinema em Cena</a></li>
+<li><a href="http://www.ffesp.com">FFESP</a></li>
+<li><a href="http://alphafiction.wordpress.com/">Grupo de Ficção Científica Alpha</a></li>
+<li><a href="http://www.grupozonaneutra.com" target="_blank">Grupo Zona Neutra</a></li>
+<li><a href="http://intervalocultural.blogspot.com">Intervalo Cultural</a></li>
+<li><a href="http://www.jammersreviews.com/">Jammer Reviews</a></li>
+<li><a href="http://www.jedilibrary.com.br">Jedi Library</a></li>
+<li><a href="http://www.jornadabbs.com">Jornada BBS</a></li>
+<li><a href="http://www.jornadanasestrelas.com.br/">Jornada nas Estrelas</a></li>
+<li><a href="http://www.paramount.com/startrek">Jornada nas Estrelas (2008)</a></li>
+<li><a href="http://www.jovemnerd.com.br/">Jovem Nerd</a></li>
+<li><a href="http://judao.com.br/">Judão</a></li>
+<li><a href="http://mirandonocinema.wordpress.com/">Mirando no Cinema</a></li>
+<li><a href="http://www.omelete.com.br">Omelete</a></li>
+<li><a href="http://www.poltrona.tv">Poltrona.TV</a></li>
+<li><a href="http://www.quadrinho.com">Quadrinho.com</a></li>
+<li><a href="http://www.rabisco.org">Rabisco</a></li>
+<li><a href="http://retoricainsana.blogspot.com/">Retórica Insana</a></li>
+<li><a href="http://scifibr.wordpress.com/">Sci Fi do Brasil</a></li>
+<li><a href="http://seriemaniacos.wordpress.com/">Série Maníacos</a></li>
+<li><a href="http://blig.ig.com.br/seriestrek/">Séries Trek</a></li>
+<li><a href="http://startrekemportugues.blogspot.com/">Star Trek em Português</a></li>
+<li><a href="http://www.tokubrasil.com/site/">Tokusatsu</a></li>
+<li><a href="http://www.trekmovie.com">Trek Movie Report</a></li>
+<li><a href="http://www.trekinrio.com.br">TREKinRIO</a></li>
+<li><a href="http://www.trekkercultura.com.br">Trekker Cultura</a></li>
+<li><a href="http://www.trekweb.com">Trekweb</a></li>
+<li><a href="http://mveloso48.spaces.live.com/">USS Orbiter</a></li>
+<li><a href="http://www.ussventure.eng.br">USS Venture</a></li>
+<li><a href="http://startrekbr.wordpress.com/">We Are the Borg</a></li>
+<li><a href="http://www.zacharyquintobr.com">Zachary Quinto Brasil</a></li>
+<li><a href="http://www.zineacesso.com/">Zine Acesso</a></li>
+
+	</ul>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+	
+
+</div>
+
+
+</div>
+	
+<!-- begin footer -->
+
+<div style="clear:both;"></div>
+
+
+
+<div id="footer_wrap">
+	<div id="footer">
+
+<p class="footer_left"> </p><p class="footer_right">Powered by <i><a href="http://frugaltheme.com/" title="frugal Premium Wordpress Theme">frugal</a></i></p><br /><p class="footer_center">Copyright &copy; 2011 Trek Brasilis</p>
+
+	</div>
+</div>
+
+
+<div style="clear:both;"></div>
+
+</div> <!-- Closes Wrap -->
+
+<script type="text/javascript" src="http://s21.sitemeter.com/js/counter.js?site=s21trekbrasilis"></script>
+<!-- Start Shareaholic TopSharingBar Automatic --><!-- End Shareaholic TopSharingBar Automatic --><script type="text/javascript">var SHRSB_Settings = [];</script>
+<!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5975053-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+</body>
+
+</html>

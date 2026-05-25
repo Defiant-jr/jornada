@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+s14.sitemeter.com	TRUE	/js	FALSE	1999999999	IP	177%2E65%2E14%2E9
+www.sitemeter.com	TRUE	/	FALSE	1999999999	ASPSESSIONIDCSRQCSCB	NNJGHKADFCFJHMEHFBICDGMI
+www.sitemeter.com	TRUE	/	FALSE	1999999999	SHOWANIMATION	no
+
