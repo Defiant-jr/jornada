@@ -79,10 +79,8 @@ a:hover {
   content: "";
   position: absolute;
   background-color: var(--bg-color);
-  width: 50px;
-  /* Sidebar width is 170px, so 220px - 170px = 50px cutout */
+  width: 60px;
   height: 45px;
-  /* Top bar height is 35px, so 80px - 35px = 45px cutout */
   bottom: 0;
   right: 0;
   border-top-left-radius: 20px;
@@ -179,9 +177,11 @@ a:hover {
   font-family: var(--font-lcars);
   font-size: 1.2rem;
   font-weight: 700;
+  line-height: 1.2;
   text-align: right;
   padding-right: 15px;
-  margin-top: -10px;
+  margin-top: 0;
+  min-height: 24px;
 }
 
 .lcars-menu-group {

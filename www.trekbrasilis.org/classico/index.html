@@ -144,7 +144,7 @@
 
     <!-- Main Content Area: iframe for target content -->
     <main class="lcars-content-wrapper">
-      <iframe name="lcars-viewport" id="lcars-viewport" src="home.html" class="lcars-viewport" title="Trek Brasilis Content Viewport"></iframe>
+      <iframe name="lcars-viewport" id="lcars-viewport" src="guia/index.html" class="lcars-viewport" title="Trek Brasilis Content Viewport"></iframe>
     </main>
 
     <!-- Right LCARS Panel -->
@@ -256,12 +256,30 @@
         trailBtn.textContent = 'SHOW MOUSE TRAIL';
         trailBtn.style.backgroundColor = 'var(--lcars-green)';
       }
-  // 3. Iframe Auto-Aligner (Ensures footer alignment and clears original menu)
+    });
+
+  }
+
+  // 3. Iframe Auto-Aligner (Ensures footer alignment and clears original menu)
   const iframe = document.getElementById('lcars-viewport');
   if (iframe) {
     iframe.addEventListener('load', () => {
       try {
-        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+        let lcarsFrameFixes = iframeDoc.getElementById('lcars-frame-fixes');
+
+        if (!lcarsFrameFixes) {
+
+          lcarsFrameFixes = iframeDoc.createElement('style');
+
+          lcarsFrameFixes.id = 'lcars-frame-fixes';
+
+          lcarsFrameFixes.textContent = 'td[style*="#003b66"]{height:0!important;line-height:0!important;font-size:0!important;padding:0!important;background:transparent!important;}';
+
+          iframeDoc.head.appendChild(lcarsFrameFixes);
+
+        }
         
         // Clear the original duplicate navigation menu inside the sidebar column
         // We find the cell by its background and rowspan attributes
